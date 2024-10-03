@@ -1,0 +1,7 @@
+Added Component: Designator=D47(SOD323)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD47_1 Pin=D47-1
+Added Pin To Net: NetName=NetD47_2 Pin=D47-2
+Added Member To Class: ClassName=Sheet1 Member=Component D47 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component S47 MX1A
+Added Member To Class: ClassName=Sheet1 Member=Component S63 MX1A

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Netf1_17 Pin=f1-17
+Removed Pin From Net: NetName=NetD1_2 Pin=stm1-2
+Removed Pin From Net: NetName=NetD8_2 Pin=stm1-3
+Removed Pin From Net: NetName=Netf1_17 Pin=stm1-11
+Removed Pin From Net: NetName=Netf1_16 Pin=stm1-12
+Added Pin To Net: NetName=Netf1_17 Pin=stm1-2
+Added Pin To Net: NetName=Netf1_16 Pin=stm1-3
+Added Pin To Net: NetName=NetD1_2 Pin=stm1-11
+Added Pin To Net: NetName=NetD8_2 Pin=stm1-12
+Change Net Name : Old Net Name=Netf1_17 New Net Name=NetS1_1
+Added Member To Class: ClassName=Matrix Member=Component S2 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S6 MX1A

@@ -1,0 +1,517 @@
+Added Component: Designator=D35(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D36(LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "08-Jul-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Mech Layer 1 removed."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=f1(FFC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=f2(FFC)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S2(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S3(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S4(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S5(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S6(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S7(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S8(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S9(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S10(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S11(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S12(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S13(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S14(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S15(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S16(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S17(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S18(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S19(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S20(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S21(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S22(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S23(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S24(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S25(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S26(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S27(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S28(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S29(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S30(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S31(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S32(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S33(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S34(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S35(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S36(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S37(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S38(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S39(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S40(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S41(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S42(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S43(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S44(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S45(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S46(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S47(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S48(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S49(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S50(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S51(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S52(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S53(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S54(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S55(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S56(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S57(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S58(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S59(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S60(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S61(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S62(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S63(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S64(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S65(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S66(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S67(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S68(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S69(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S70(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S71(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S72(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S73(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S74(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S75(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S76(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S77(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S78(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S79(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S80(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S81(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S82(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S83(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S84(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S85(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S86(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S87(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S88(KEY)
+Add component. Clean all parameters for all variants
+Added Component: Designator=stm1(stm32f4x1cxu6_core)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD61_2 Pin=D35-1
+Added Pin To Net: NetName=NetD101_1 Pin=D35-2
+Added Pin To Net: NetName=NetD61_2 Pin=D36-1
+Added Pin To Net: NetName=NetD36_2 Pin=D36-2
+Added Pin To Net: NetName=Netf1_1 Pin=f1-1
+Added Pin To Net: NetName=Netf1_2 Pin=f1-2
+Added Pin To Net: NetName=Netf1_3 Pin=f1-3
+Added Pin To Net: NetName=Netf1_4 Pin=f1-4
+Added Pin To Net: NetName=Netf1_5 Pin=f1-5
+Added Pin To Net: NetName=Netf1_6 Pin=f1-6
+Added Pin To Net: NetName=Netf1_7 Pin=f1-7
+Added Pin To Net: NetName=Netf1_8 Pin=f1-8
+Added Pin To Net: NetName=Netf1_9 Pin=f1-9
+Added Pin To Net: NetName=Netf1_10 Pin=f1-10
+Added Pin To Net: NetName=NetD81_2 Pin=f1-11
+Added Pin To Net: NetName=Netf1_12 Pin=f1-12
+Added Pin To Net: NetName=Netf1_13 Pin=f1-13
+Added Pin To Net: NetName=Netf1_14 Pin=f1-14
+Added Pin To Net: NetName=Netf1_15 Pin=f1-15
+Added Pin To Net: NetName=Netf1_16 Pin=f1-16
+Added Pin To Net: NetName=Netf1_17 Pin=f1-17
+Added Pin To Net: NetName=Net86_2 Pin=f2-1
+Added Pin To Net: NetName=NetD01_1 Pin=f2-2
+Added Pin To Net: NetName=NetD03_1 Pin=f2-3
+Added Pin To Net: NetName=NetD0_1 Pin=f2-4
+Added Pin To Net: NetName=NetD0_2 Pin=f2-5
+Added Pin To Net: NetName=NetD26_2 Pin=f2-6
+Added Pin To Net: NetName=NetD21_2 Pin=f2-7
+Added Pin To Net: NetName=NetD16_2 Pin=f2-8
+Added Pin To Net: NetName=Net86_1 Pin=f2-9
+Added Pin To Net: NetName=NetD41_2 Pin=f2-10
+Added Pin To Net: NetName=NetD09_1 Pin=f2-11
+Added Pin To Net: NetName=Netf2_12 Pin=f2-12
+Added Pin To Net: NetName=Netf2_13 Pin=f2-13
+Added Pin To Net: NetName=Netf2_14 Pin=f2-14
+Added Pin To Net: NetName=Netf2_15 Pin=f2-15
+Added Pin To Net: NetName=Netf2_16 Pin=f2-16
+Added Pin To Net: NetName=Netf2_17 Pin=f2-17
+Added Pin To Net: NetName=Netf1_17 Pin=S1-1
+Added Pin To Net: NetName=NetD91_1 Pin=S1-2
+Added Pin To Net: NetName=Netf1_16 Pin=S2-1
+Added Pin To Net: NetName=NetD92_1 Pin=S2-2
+Added Pin To Net: NetName=Netf1_15 Pin=S3-1
+Added Pin To Net: NetName=NetD93_1 Pin=S3-2
+Added Pin To Net: NetName=Netf1_14 Pin=S4-1
+Added Pin To Net: NetName=NetD94_1 Pin=S4-2
+Added Pin To Net: NetName=Netf1_13 Pin=S5-1
+Added Pin To Net: NetName=NetD95_1 Pin=S5-2
+Added Pin To Net: NetName=Netf1_12 Pin=S6-1
+Added Pin To Net: NetName=NetD96_1 Pin=S6-2
+Added Pin To Net: NetName=Netf1_17 Pin=S7-1
+Added Pin To Net: NetName=NetD97_1 Pin=S7-2
+Added Pin To Net: NetName=Netf1_16 Pin=S8-1
+Added Pin To Net: NetName=NetD46_2 Pin=S8-2
+Added Pin To Net: NetName=Netf1_15 Pin=S9-1
+Added Pin To Net: NetName=NetD51_2 Pin=S9-2
+Added Pin To Net: NetName=Netf1_14 Pin=S10-1
+Added Pin To Net: NetName=NetD10_1 Pin=S10-2
+Added Pin To Net: NetName=Netf1_13 Pin=S11-1
+Added Pin To Net: NetName=NetD11_1 Pin=S11-2
+Added Pin To Net: NetName=Netf1_12 Pin=S12-1
+Added Pin To Net: NetName=NetD12_1 Pin=S12-2
+Added Pin To Net: NetName=Netf1_17 Pin=S13-1
+Added Pin To Net: NetName=NetD13_1 Pin=S13-2
+Added Pin To Net: NetName=Netf1_16 Pin=S14-1
+Added Pin To Net: NetName=NetD14_1 Pin=S14-2
+Added Pin To Net: NetName=Netf1_15 Pin=S15-1
+Added Pin To Net: NetName=NetD15_1 Pin=S15-2
+Added Pin To Net: NetName=Netf1_14 Pin=S16-1
+Added Pin To Net: NetName=NetD16_1 Pin=S16-2
+Added Pin To Net: NetName=Netf1_13 Pin=S17-1
+Added Pin To Net: NetName=NetD17_1 Pin=S17-2
+Added Pin To Net: NetName=Netf1_12 Pin=S18-1
+Added Pin To Net: NetName=NetD18_1 Pin=S18-2
+Added Pin To Net: NetName=Netf1_17 Pin=S19-1
+Added Pin To Net: NetName=NetD19_1 Pin=S19-2
+Added Pin To Net: NetName=Netf1_16 Pin=S20-1
+Added Pin To Net: NetName=NetD66_2 Pin=S20-2
+Added Pin To Net: NetName=Netf1_15 Pin=S21-1
+Added Pin To Net: NetName=NetD21_1 Pin=S21-2
+Added Pin To Net: NetName=Netf1_14 Pin=S22-1
+Added Pin To Net: NetName=NetD22_1 Pin=S22-2
+Added Pin To Net: NetName=Netf1_13 Pin=S23-1
+Added Pin To Net: NetName=NetD23_1 Pin=S23-2
+Added Pin To Net: NetName=Netf1_17 Pin=S24-1
+Added Pin To Net: NetName=NetD24_1 Pin=S24-2
+Added Pin To Net: NetName=Netf1_16 Pin=S25-1
+Added Pin To Net: NetName=NetD76_2 Pin=S25-2
+Added Pin To Net: NetName=Netf1_15 Pin=S26-1
+Added Pin To Net: NetName=NetD26_1 Pin=S26-2
+Added Pin To Net: NetName=Netf1_14 Pin=S27-1
+Added Pin To Net: NetName=NetD27_1 Pin=S27-2
+Added Pin To Net: NetName=NetD28_1 Pin=S28-2
+Added Pin To Net: NetName=Netf1_12 Pin=S29-1
+Added Pin To Net: NetName=NetD29_1 Pin=S29-2
+Added Pin To Net: NetName=Netf1_16 Pin=S30-1
+Added Pin To Net: NetName=NetD30_1 Pin=S30-2
+Added Pin To Net: NetName=Netf1_15 Pin=S31-1
+Added Pin To Net: NetName=NetD31_1 Pin=S31-2
+Added Pin To Net: NetName=Netf1_14 Pin=S32-1
+Added Pin To Net: NetName=NetD32_1 Pin=S32-2
+Added Pin To Net: NetName=NetD33_1 Pin=S33-2
+Added Pin To Net: NetName=Netf1_16 Pin=S34-1
+Added Pin To Net: NetName=NetD34_1 Pin=S34-2
+Added Pin To Net: NetName=Netf2_12 Pin=S35-1
+Added Pin To Net: NetName=NetD37_1 Pin=S35-2
+Added Pin To Net: NetName=Netf2_14 Pin=S36-1
+Added Pin To Net: NetName=NetD38_1 Pin=S36-2
+Added Pin To Net: NetName=Netf2_15 Pin=S37-1
+Added Pin To Net: NetName=NetD39_1 Pin=S37-2
+Added Pin To Net: NetName=Netf2_16 Pin=S38-1
+Added Pin To Net: NetName=NetD40_1 Pin=S38-2
+Added Pin To Net: NetName=Netf2_17 Pin=S39-1
+Added Pin To Net: NetName=NetD41_1 Pin=S39-2
+Added Pin To Net: NetName=Netf2_12 Pin=S40-1
+Added Pin To Net: NetName=NetD42_1 Pin=S40-2
+Added Pin To Net: NetName=Netf2_13 Pin=S41-1
+Added Pin To Net: NetName=NetD43_1 Pin=S41-2
+Added Pin To Net: NetName=Netf2_14 Pin=S42-1
+Added Pin To Net: NetName=NetD44_1 Pin=S42-2
+Added Pin To Net: NetName=Netf2_15 Pin=S43-1
+Added Pin To Net: NetName=NetD02_1 Pin=S43-2
+Added Pin To Net: NetName=Netf2_16 Pin=S44-1
+Added Pin To Net: NetName=NetD46_1 Pin=S44-2
+Added Pin To Net: NetName=Netf2_12 Pin=S45-1
+Added Pin To Net: NetName=NetD47_1 Pin=S45-2
+Added Pin To Net: NetName=Netf2_13 Pin=S46-1
+Added Pin To Net: NetName=NetD48_1 Pin=S46-2
+Added Pin To Net: NetName=Netf2_14 Pin=S47-1
+Added Pin To Net: NetName=NetD49_1 Pin=S47-2
+Added Pin To Net: NetName=Netf2_15 Pin=S48-1
+Added Pin To Net: NetName=NetD11_2 Pin=S48-2
+Added Pin To Net: NetName=Netf2_16 Pin=S49-1
+Added Pin To Net: NetName=NetD51_1 Pin=S49-2
+Added Pin To Net: NetName=Netf2_12 Pin=S50-1
+Added Pin To Net: NetName=NetD52_1 Pin=S50-2
+Added Pin To Net: NetName=Netf2_13 Pin=S51-1
+Added Pin To Net: NetName=NetD53_1 Pin=S51-2
+Added Pin To Net: NetName=Netf2_14 Pin=S52-1
+Added Pin To Net: NetName=NetD54_1 Pin=S52-2
+Added Pin To Net: NetName=Netf2_15 Pin=S53-1
+Added Pin To Net: NetName=NetD55_1 Pin=S53-2
+Added Pin To Net: NetName=Netf2_16 Pin=S54-1
+Added Pin To Net: NetName=NetD56_1 Pin=S54-2
+Added Pin To Net: NetName=Netf2_17 Pin=S55-1
+Added Pin To Net: NetName=NetD57_1 Pin=S55-2
+Added Pin To Net: NetName=Netf2_12 Pin=S56-1
+Added Pin To Net: NetName=NetD58_1 Pin=S56-2
+Added Pin To Net: NetName=Netf2_13 Pin=S57-1
+Added Pin To Net: NetName=NetD59_1 Pin=S57-2
+Added Pin To Net: NetName=Netf2_14 Pin=S58-1
+Added Pin To Net: NetName=NetD60_1 Pin=S58-2
+Added Pin To Net: NetName=Netf2_15 Pin=S59-1
+Added Pin To Net: NetName=NetD61_1 Pin=S59-2
+Added Pin To Net: NetName=Netf2_16 Pin=S60-1
+Added Pin To Net: NetName=NetD62_1 Pin=S60-2
+Added Pin To Net: NetName=Netf2_17 Pin=S61-1
+Added Pin To Net: NetName=NetD63_1 Pin=S61-2
+Added Pin To Net: NetName=Netf2_12 Pin=S62-1
+Added Pin To Net: NetName=NetD64_1 Pin=S62-2
+Added Pin To Net: NetName=Netf2_13 Pin=S63-1
+Added Pin To Net: NetName=NetD65_1 Pin=S63-2
+Added Pin To Net: NetName=Netf2_14 Pin=S64-1
+Added Pin To Net: NetName=NetD66_1 Pin=S64-2
+Added Pin To Net: NetName=Netf2_15 Pin=S65-1
+Added Pin To Net: NetName=NetD67_1 Pin=S65-2
+Added Pin To Net: NetName=Netf2_16 Pin=S66-1
+Added Pin To Net: NetName=NetD04_1 Pin=S66-2
+Added Pin To Net: NetName=Netf2_17 Pin=S67-1
+Added Pin To Net: NetName=NetD31_2 Pin=S67-2
+Added Pin To Net: NetName=Netf2_12 Pin=S68-1
+Added Pin To Net: NetName=NetD70_1 Pin=S68-2
+Added Pin To Net: NetName=Netf2_13 Pin=S69-1
+Added Pin To Net: NetName=NetD71_1 Pin=S69-2
+Added Pin To Net: NetName=Netf2_14 Pin=S70-1
+Added Pin To Net: NetName=NetD72_1 Pin=S70-2
+Added Pin To Net: NetName=Netf2_15 Pin=S71-1
+Added Pin To Net: NetName=NetD05_1 Pin=S71-2
+Added Pin To Net: NetName=Netf2_17 Pin=S72-1
+Added Pin To Net: NetName=NetD07_1 Pin=S72-2
+Added Pin To Net: NetName=Netf2_12 Pin=S73-1
+Added Pin To Net: NetName=NetD75_1 Pin=S73-2
+Added Pin To Net: NetName=Netf2_13 Pin=S74-1
+Added Pin To Net: NetName=NetD76_1 Pin=S74-2
+Added Pin To Net: NetName=Netf2_14 Pin=S75-1
+Added Pin To Net: NetName=NetD77_1 Pin=S75-2
+Added Pin To Net: NetName=Netf2_12 Pin=S76-1
+Added Pin To Net: NetName=NetD32_2 Pin=S76-2
+Added Pin To Net: NetName=Netf2_13 Pin=S77-1
+Added Pin To Net: NetName=NetD06_1 Pin=S77-2
+Added Pin To Net: NetName=Netf2_14 Pin=S78-1
+Added Pin To Net: NetName=NetD80_1 Pin=S78-2
+Added Pin To Net: NetName=Netf2_17 Pin=S79-1
+Added Pin To Net: NetName=NetD81_1 Pin=S79-2
+Added Pin To Net: NetName=Netf2_12 Pin=S80-1
+Added Pin To Net: NetName=NetD82_1 Pin=S80-2
+Added Pin To Net: NetName=Netf2_13 Pin=S81-1
+Added Pin To Net: NetName=NetD06_2 Pin=S81-2
+Added Pin To Net: NetName=Netf2_14 Pin=S82-1
+Added Pin To Net: NetName=NetD08_1 Pin=S82-2
+Added Pin To Net: NetName=Netf2_16 Pin=S83-1
+Added Pin To Net: NetName=NetD85_1 Pin=S83-2
+Added Pin To Net: NetName=Netf2_17 Pin=S84-1
+Added Pin To Net: NetName=NetD36_1 Pin=S84-2
+Added Pin To Net: NetName=Netf2_12 Pin=S85-1
+Added Pin To Net: NetName=NetD87_1 Pin=S85-2
+Added Pin To Net: NetName=Netf2_13 Pin=S86-1
+Added Pin To Net: NetName=NetD88_1 Pin=S86-2
+Added Pin To Net: NetName=Netf2_14 Pin=S87-1
+Added Pin To Net: NetName=NetD89_1 Pin=S87-2
+Added Pin To Net: NetName=Netf2_17 Pin=S88-1
+Added Pin To Net: NetName=NetD90_1 Pin=S88-2
+Added Pin To Net: NetName=NetD1_2 Pin=stm1-2
+Added Pin To Net: NetName=NetD98_1 Pin=stm1-3
+Added Pin To Net: NetName=NetD99_1 Pin=stm1-4
+Added Pin To Net: NetName=NetD56_2 Pin=stm1-5
+Added Pin To Net: NetName=NetD71_2 Pin=stm1-6
+Added Pin To Net: NetName=NetD100_1 Pin=stm1-7
+Added Pin To Net: NetName=NetD81_2 Pin=stm1-10
+Added Pin To Net: NetName=Netf1_17 Pin=stm1-11
+Added Pin To Net: NetName=Netf1_16 Pin=stm1-12
+Added Pin To Net: NetName=Netf1_15 Pin=stm1-13
+Added Pin To Net: NetName=Netf1_14 Pin=stm1-14
+Added Pin To Net: NetName=Netf1_13 Pin=stm1-15
+Added Pin To Net: NetName=Netf1_12 Pin=stm1-16
+Added Pin To Net: NetName=NetD101_1 Pin=stm1-17
+Added Pin To Net: NetName=NetD61_2 Pin=stm1-20
+Added Pin To Net: NetName=NetD36_2 Pin=stm1-27
+Added Pin To Net: NetName=Netf1_1 Pin=stm1-28
+Added Pin To Net: NetName=Netf1_2 Pin=stm1-29
+Added Pin To Net: NetName=Netf1_3 Pin=stm1-30
+Added Pin To Net: NetName=Netf1_4 Pin=stm1-31
+Added Pin To Net: NetName=Netf1_5 Pin=stm1-32
+Added Pin To Net: NetName=Netf1_6 Pin=stm1-33
+Added Pin To Net: NetName=Netf1_7 Pin=stm1-34
+Added Pin To Net: NetName=Netf1_8 Pin=stm1-35
+Added Pin To Net: NetName=Netf1_9 Pin=stm1-36
+Added Pin To Net: NetName=Netf1_10 Pin=stm1-37
+Change Net Name : Old Net Name=Net86_1 New Net Name=NetD47_2
+Change Net Name : Old Net Name=Net86_2 New Net Name=NetD87_2
+Change Net Name : Old Net Name=NetD0_1 New Net Name=NetD75_2
+Change Net Name : Old Net Name=NetD0_2 New Net Name=NetD70_2
+Change Net Name : Old Net Name=NetD01_1 New Net Name=NetD82_2
+Change Net Name : Old Net Name=NetD02_1 New Net Name=NetD45_1
+Change Net Name : Old Net Name=NetD03_1 New Net Name=NetD78_2
+Change Net Name : Old Net Name=NetD04_1 New Net Name=NetD68_1
+Change Net Name : Old Net Name=NetD05_1 New Net Name=NetD73_1
+Change Net Name : Old Net Name=NetD06_1 New Net Name=NetD79_1
+Change Net Name : Old Net Name=NetD06_2 New Net Name=NetD83_1
+Change Net Name : Old Net Name=NetD07_1 New Net Name=NetD74_1
+Change Net Name : Old Net Name=NetD08_1 New Net Name=NetD84_1
+Change Net Name : Old Net Name=NetD09_1 New Net Name=NetD37_2
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD50_1
+Change Net Name : Old Net Name=NetD16_2 New Net Name=NetD52_2
+Change Net Name : Old Net Name=NetD21_2 New Net Name=NetD58_2
+Change Net Name : Old Net Name=NetD26_2 New Net Name=NetD64_2
+Change Net Name : Old Net Name=NetD31_2 New Net Name=NetD69_1
+Change Net Name : Old Net Name=NetD32_2 New Net Name=NetD78_1
+Change Net Name : Old Net Name=NetD36_1 New Net Name=NetD86_1
+Change Net Name : Old Net Name=NetD46_2 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD51_2 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD56_2 New Net Name=NetD19_2
+Change Net Name : Old Net Name=NetD61_2 New Net Name=NetD35_1
+Change Net Name : Old Net Name=NetD66_2 New Net Name=NetD20_1
+Change Net Name : Old Net Name=NetD71_2 New Net Name=NetD24_2
+Change Net Name : Old Net Name=NetD76_2 New Net Name=NetD25_1
+Change Net Name : Old Net Name=NetD81_2 New Net Name=NetD34_2
+Change Net Name : Old Net Name=NetD91_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD92_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD93_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD94_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD95_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD96_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD97_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD98_1 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD99_1 New Net Name=NetD13_2
+Change Net Name : Old Net Name=NetD100_1 New Net Name=NetD30_2
+Change Net Name : Old Net Name=NetD101_1 New Net Name=NetD35_2
+Added Class: Name=Sheet1
+Added Member To Class: ClassName=Matrix Member=Component D35 LED0
+Added Member To Class: ClassName=Matrix Member=Component D36 LED1
+Added Member To Class: ClassName=Matrix Member=Component f1 ffc
+Added Member To Class: ClassName=Matrix Member=Component S1 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S2 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S3 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S4 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S5 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S6 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S7 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S8 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S9 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S10 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S11 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S12 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S13 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S14 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S15 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S16 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S17 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S18 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S19 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S20 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S21 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S22 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S23 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S24 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S25 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S26 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S27 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S28 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S29 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S30 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S31 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S32 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S33 MX1A
+Added Member To Class: ClassName=Matrix Member=Component S34 MX1A
+Added Member To Class: ClassName=Matrix Member=Component stm1 U1
+Added Room: Name=Matrix
+Added Room: Name=Sheet1
