@@ -108,6 +108,7 @@ void Error_Handler(void);
 #define ROW5_GPIO_Port GPIOB
 #define CAPLED_Pin GPIO_PIN_9
 #define CAPLED_GPIO_Port GPIOB
+
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
@@ -117,5 +118,3 @@ void Error_Handler(void);
 #endif
 
 #endif /* __MAIN_H */
-
-/************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
