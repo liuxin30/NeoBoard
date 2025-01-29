@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=VCC Pin=D1-1
-Change Component Comment : Designator=D1 Old Comment=Diode 1N4148 New Comment=发光二极管
-Change component parameters. Clean all parameters for all variants
-Added Pin To Net: NetName=NetD1_K Pin=D2-1
-Added Net: Name=NetD1_K
